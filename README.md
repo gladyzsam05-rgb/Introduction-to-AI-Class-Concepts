@@ -35,6 +35,16 @@ it adjusts internal weights through **backpropagation** and gradient descent,min
 
 ## linux commands
 <!-- [Team Member 4 Gladys M. Samuel] will write this section -->
+#Linux Commands 
+##What are linux Commands.
+- These are text-based instructions entered into a terminal interface to tell the operating systerm what to do
+### Types Linux Commands
+1. pwd
+2. cd
+3. mkdir
+4. tough
+5. nano etc
+ 
 Linux commands are used to interact with operating systems through the terminal and perform tasks like file management, navigation and system monitoring. Learning basic linux commands helps beginners understand how linux works and use it effeciently for the daily tasks, covers commonly used commands for files, directories and system tasks and also useful for students, developers and system administraters. Examples of linux commands; pwd, cd, ls, mkdir, touch, nano, rm etc.
 
 # machine learning
