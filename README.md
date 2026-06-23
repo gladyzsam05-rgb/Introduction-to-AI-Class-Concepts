@@ -26,7 +26,7 @@ Hidden layers extract increasingly complex features [edges-shapes-objects].
 ### The Learning process
 it adjusts internal weights through **backpropagation** and gradient descent,minimizing errors by comparing* predictions to ground truth over millions of iteration.
 
-## linux commands
+## Linux Commands.
 <!-- [Team Member 4 Gladys M. Samuel] will write this section -->
 #Linux Commands 
 ##What are linux Commands.
