@@ -27,8 +27,12 @@ Git is a distruted version control of Github which provides access control, bug 
 
 ## Deep Learning
 <!-- [Team Member 3 Peninah Barasa] will write this section -->
-Deep learning is a subset of machine learning that uses artificial neural networks to learn from data, similar to the way we learn. Artificial neural networks are inspired by human brains and they can be used to solve a wide variety of problems including image recognition, natural language processing and speech recognition.Neutral networks are similar to deep learning 
+## Deep Learning
+**Deep learning**is a type of neural network or a subset of machine learning,inspired by human brain.Instead of using hand-codedrules,it learns patterns directly from data using artificial neural networks with many layers.**how it works** It uses layers of interconnected ~neurons~The input layer receives raw data[pixels,texts].` 
+Hidden layers extract increasingly complex features [edges-shapes-objects].
+### The Learning process
+it adjusts internal weights through **backpropagation** and gradient descent,minimizing errors by comparing predictions to ground truth over millions of iteration
 
-## Linux Commands
+## linux commands
 <!-- [Team Member 4 Gladys M. Samuel] will write this section -->
 Linux commands are used to interact with operating systems through the terminal and perform tasks like file management, navigation and system monitoring. Learning basic linux commands helps beginners understand how linux works and use it effeciently for the daily tasks, covers commonly used commands for files, directories and system tasks and also useful for students, developers and system administraters. Examples of linux commands; pwd, cd, ls, mkdir, touch, nano, rm etc.
