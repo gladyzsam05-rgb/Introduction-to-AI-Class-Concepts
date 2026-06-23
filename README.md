@@ -31,7 +31,7 @@ Git is a distruted version control of Github which provides access control, bug 
 **Deep learning**is a type of neural network or a subset of machine learning,inspired by human brain.Instead of using hand-codedrules,it learns patterns directly from data using artificial neural networks with many layers.**how it works** It uses layers of interconnected ~neurons~The input layer receives raw data[pixels,texts].` 
 Hidden layers extract increasingly complex features [edges-shapes-objects].
 ### The Learning process
-it adjusts internal weights through **backpropagation** and gradient descent,minimizing errors by comparing predictions to ground truth over millions of iteration
+it adjusts internal weights through **backpropagation** and gradient descent,minimizing errors by comparing predictions to ground truth over millions of iteration.
 
 ## linux commands
 <!-- [Team Member 4 Gladys M. Samuel] will write this section -->
