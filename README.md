@@ -22,8 +22,8 @@ Machine learning is a branch of artificial intelligence that focuses on developi
 
 ## Git and GitHub
 <!-- [Team Member 2 Agnes Njoroge] will write this section -->
-Github is a developers' platform that allows to create, store, manage and share the their code.
-Git is a distruted version control of Github which provides access control, bug tracking, task management, continuous intergration and software feature request for every project.
+**Github** is a developers' platform that allows to *create*,*store*,*manage* and *share the their code*.
+**Git** is a distruted version control of Github which provides `access control`,`bug tracking`, `task management`, `continuous intergration` and `software feature requests` for every project.
 
 ## Deep Learning
 <!-- [Team Member 3 Peninah Barasa] will write this section -->
