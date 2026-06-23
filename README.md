@@ -27,7 +27,7 @@ Git is a distruted version control of Github which provides access control, bug 
 
 ## Deep Learning
 <!-- [Team Member 3 Peninah Barasa] will write this section -->
-Deep learning is a subset of machine learning that uses artificial neural networks to learn from data, similar to the way we learn. Artificial neural networks are inspired by human brains and they can be used to solve a wide variety of problems including image recognition, natural language processing and speech recognition.
+Deep learning is a subset of machine learning that uses artificial neural networks to learn from data, similar to the way we learn. Artificial neural networks are inspired by human brains and they can be used to solve a wide variety of problems including image recognition, natural language processing and speech recognition.Neutral networks are similar to deep learning 
 
 ## Linux Commands
 <!-- [Team Member 4 Gladys M. Samuel] will write this section -->
