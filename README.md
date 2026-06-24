@@ -13,13 +13,6 @@ A collaborative guide by [ Gladys M.Samuel, Peninah Barasa, Agnes Njoroge and Se
 This guide covers AI concepts that every student should know about.
 Each section is written by a different team member.
 
-## Machine Learning
-<!-- [Team Member 1 Selina Wanza] will write this section -->
-Machine learning is a branch of artificial intelligence that focuses on developing models and algorithms that let computers learn data. They are of four co-types; 1. Supervised ML. Data is structured.
-       2. Unsupervised ML.  Data is unstructured.
-       3. Semi - Structured. Data is both structured and unstructured
-       4. Reinforcement ML. It creates a loop to give positive or negative feedback to the model.
-
 ## Git and GitHub
 <!-- [Team Member 2 Agnes Njoroge] will write this section -->
 **Github** is a developers' platform that allows to *create*,*store*,*manage* and *share the their code*.
